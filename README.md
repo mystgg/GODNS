@@ -11,4 +11,3 @@ secondary: 1.1.1.1 (or any other public DNS)
 ```console
 go run main.go
 ```
-That's all!
